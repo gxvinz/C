@@ -4,7 +4,10 @@
 //--------------------------------------------------------------------
 // Author: Gavin Crain
 // Date: 2/19/2020
-// Description: allows user to choose from games to play 
+// Description: This C++ program presents a menu that 
+// allows the user to sum numbers between a range, print a square of asterisks, or exit.
+// It uses a loop for continuous operation and a switch statement to handle user choices. 
+// The program runs until the user opts to exit.
 //--------------------------------------------------------------------
 #include <iostream>
 #include <iomanip>
